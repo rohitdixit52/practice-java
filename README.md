@@ -70,13 +70,7 @@ Java Practice/
 
 ---
 
-## 🚀 How to Run
-Compile:
 
-
-Run:
-
----
 
 ## ⭐ Future Plans
 - Add more mini projects  
