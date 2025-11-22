@@ -66,11 +66,7 @@ Java Practice/
 - Functional Interfaces  
 
 ### ✔ Mini Projects  
-- Small console programs using OOP + Collections
-
----
-
-
+- Small console programs using OOP + Collections 
 
 ## ⭐ Future Plans
 - Add more mini projects  
