@@ -1,4 +1,4 @@
-# 📘 Java Practice Repository
+ 📘 Java Practice Repository
 
 This repository contains all my **Java practice programs**, organized topic-wise.  
 It includes basics, OOP, collections, exception handling, Java 8 features, and mini–projects.
@@ -8,9 +8,8 @@ The goal of this repo is:
 - To keep all learning code well-organized
 - To showcase my consistency on GitHub
 
----
 
-## 📁 Folder Structure
+ 📁 Folder Structure
 
 Java Practice/
 │
@@ -29,16 +28,16 @@ Java Practice/
 
 ---
 
-## 📚 Topics Covered
+ 📚 Topics Covered
 
-### ✔ Basics
+ ✔ Basics
 - Input/Output  
 - Variables  
 - Loops  
 - Conditions  
 - Patterns  
 
-### ✔ OOPS
+ ✔ OOPS
 - Classes & Objects  
 - Constructors  
 - Inheritance  
@@ -46,36 +45,34 @@ Java Practice/
 - Encapsulation  
 - Abstraction  
 
-### ✔ Arrays  
+ ✔ Arrays  
 - 1D & 2D arrays  
 - Searching  
 - Sorting  
 
-### ✔ Collections
+ ✔ Collections
 - List, Set, Map  
 - Iterator  
 - Stream usage  
 
-### ✔ Exception Handling  
+ ✔ Exception Handling  
 - Try-Catch  
 - Custom exceptions  
 
-### ✔ Java 8 Features
+ ✔ Java 8 Features
 - Streams  
 - Lambda  
 - Functional Interfaces  
 
-### ✔ Mini Projects  
+ ✔ Mini Projects  
 - Small console programs using OOP + Collections 
 
-## ⭐ Future Plans
+ ⭐ Future Plans
 - Add more mini projects  
 - Add code explanations  
 - Add screenshots  
 - Convert some programs into GUI versions  
 
----
-
-## 👤 Author
+ 👤 Author
 **Rohit Dixit**  
 Java Developer | MCA Student  
