@@ -1,0 +1,9 @@
+===== Student Score Report =====
+Total Students: 5
+Average Marks: 81.4
+Topper: Neha (92)
+
+Students with Marks > 80:
+Rohit - 85
+Neha - 92
+Reena - 88
