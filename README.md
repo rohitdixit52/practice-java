@@ -1,4 +1,4 @@
- 📘 Java Practice Repository
+
 
 This repository contains all my **Java practice programs**, organized topic-wise.  
 It includes basics, OOP, collections, exception handling, Java 8 features, and mini–projects.
